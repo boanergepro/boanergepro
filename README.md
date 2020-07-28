@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **Riverpod - More Flutter**
 
-- 👯 I’m looking to collaborate on **BMKeero's delivery app**
+👯 I’m looking to collaborate on **BMKeero's delivery app**
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
