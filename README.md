@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hola 👋
 
 
-🔭 I’m currently working on **BMKero's**
+🔭 Actualmente estoy trabajando en **RestaPros**
 
-🌱 I’m currently learning **Riverpod - More Flutter**
+🌱 Ahora mismo estoy aprendiendo  **ReactJs - NodeJs - More Flutter**
 
-👯 I’m looking to collaborate on **BMKeero's delivery app**
+👯 Busco colaboración en un proyecto con **ReactJs y NodeJs**
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
