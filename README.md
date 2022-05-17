@@ -5,7 +5,7 @@
 
 🌱 Ahora mismo estoy aprendiendo  **ReactJs - NodeJs - More Flutter**
 
-👯 Busco colaboración en un proyecto con **ReactJs y NodeJs**
+<!--👯 Busco colaboración en un proyecto con **ReactJs y NodeJs**-->
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
