@@ -1,11 +1,10 @@
 ### Hola 👋
 
 
-🔭 Actualmente estoy trabajando en **BMKeros**
+🔭 Actualmente estoy **OpenToWork**
 
-🌱 Ahora mismo estoy aprendiendo  **ReactJs - NodeJs - More Flutter**
+🌱 Ahora mismo estoy aprendiendo  **Swift - SwiftUI - More Flutter**
 
-<!--👯 Busco colaboración en un proyecto con **ReactJs y NodeJs**-->
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
