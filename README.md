@@ -1,7 +1,7 @@
 ### Hola 👋
 
 
-🔭 Actualmente estoy **OpenToWork**
+🔭 Actualmente estoy  trabajando en **Devontic**
 
 🌱 Ahora mismo estoy aprendiendo  **Swift - SwiftUI - More Flutter**
 
