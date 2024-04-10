@@ -1,7 +1,7 @@
 ### Hola 👋
 
 
-🔭 Actualmente estoy  trabajando en **Devontic**
+<!--🔭 Actualmente estoy  trabajando en **Devontic** -->
 
 🌱 Ahora mismo estoy aprendiendo  **NextJs - React - TypeScript - More Flutter**
 
