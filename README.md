@@ -140,4 +140,4 @@ Desarrollo de soluciones de software a medida dentro de una cooperativa de servi
 ![Visitors](https://komarev.com/ghpvc/?username=boanergepro&color=blueviolet&style=for-the-badge)
 
 </div>
-<a href="https://codetrace.com/users/boanergepro"><img src="https://codetrace.com/widget/boanergepro" /></a>
+<!-- <a href="https://codetrace.com/users/boanergepro"><img src="https://codetrace.com/widget/boanergepro" /></a> -->
