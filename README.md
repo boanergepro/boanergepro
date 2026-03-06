@@ -8,6 +8,8 @@
 [![Location](https://img.shields.io/badge/📍_Venezuela-333?style=for-the-badge)](https://github.com/boanergepro)
 [![Experience](https://img.shields.io/badge/+6_años_de_experiencia-0A66C2?style=for-the-badge)](https://github.com/boanergepro)
 ![Visitors](https://komarev.com/ghpvc/?username=boanergepro&color=blueviolet&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/boanergepro?style=for-the-badge&logo=github&color=181717)
+![GitHub User's stars](https://img.shields.io/github/stars/boanergepro?style=for-the-badge&logo=github&color=181717)
 
 </div>
 
