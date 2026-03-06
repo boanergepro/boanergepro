@@ -3,12 +3,13 @@
 # 👋 ¡Hola! Soy Antony Carrizo
 
 ### 📱 Desarrollador de Aplicaciones Móviles y Web
+### 💡 *"Traduciendo necesidades funcionales en soluciones técnicas precisas y eficientes"*
 
-[![Location](https://img.shields.io/badge/📍_Venezuela-333?style=for-the-badge)](https://github.com/TU-USUARIO)
-[![Experience](https://img.shields.io/badge/+6_años_de_experiencia-0A66C2?style=for-the-badge)](https://github.com/TU-USUARIO)
+[![Location](https://img.shields.io/badge/📍_Venezuela-333?style=for-the-badge)](https://github.com/boanergepro)
+[![Experience](https://img.shields.io/badge/+6_años_de_experiencia-0A66C2?style=for-the-badge)](https://github.com/boanergepro)
+![Visitors](https://komarev.com/ghpvc/?username=boanergepro&color=blueviolet&style=for-the-badge)
 
 </div>
-
 ---
 
 ## 🚀 Sobre mí
@@ -132,12 +133,4 @@ Desarrollo de soluciones de software a medida dentro de una cooperativa de servi
 </div>
 
 ---
-
-<div align="center">
-
-### 💡 *"Traduciendo necesidades funcionales en soluciones técnicas precisas y eficientes"*
-
-![Visitors](https://komarev.com/ghpvc/?username=boanergepro&color=blueviolet&style=for-the-badge)
-
-</div>
 <!-- <a href="https://codetrace.com/users/boanergepro"><img src="https://codetrace.com/widget/boanergepro" /></a> -->
