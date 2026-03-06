@@ -20,9 +20,9 @@
 Desarrollador de Software Senior especializado en desarrollo móvil (Flutter) y web, con un historial comprobado en la entrega de aplicaciones innovadoras. Me distingo por mi gran capacidad de trabajo en equipo y un sólido entendimiento y aplicación de requerimientos, traduciendo necesidades funcionales en soluciones técnicas precisas y eficientes.
 
 **Experto en:**
-- 📐 Implementación de **Clean Architecture**
+- 🎯 **Flutter & Dart**
 - 🔄 Integración continua (**CI/CD**)
-- 🎯 Gestión de estado eficiente y escalable
+- 📐 Gestión de estado eficiente y escalable
 - 📲 Publicación y despliegue en **App Store** y **Google Play**
 - 🎨 Mejora de experiencia de usuario (**UI/UX**)
 
