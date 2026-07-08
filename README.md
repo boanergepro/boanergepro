@@ -55,8 +55,6 @@ Desarrollo integral de una aplicación móvil educativa enfocada en la capacitac
 
 ---
 
-## 💼 Experiencia Profesional
-
 ### 🏢 ACL | Desarrollador Mobile
 **Julio 2025 - Noviembre 2025** • Remote
 
