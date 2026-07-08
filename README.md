@@ -48,6 +48,15 @@ Desarrollador de Software Senior especializado en desarrollo móvil (Flutter) y 
 
 ## 💼 Experiencia Profesional
 
+### 🏢 Excuela  | Desarrollador Full Stack
+**Junio 2024 - Enero 2026** • Remote
+
+Desarrollo integral de una aplicación móvil educativa enfocada en la capacitación de sectores de primera línea (agricultura, minería, ganadería) en Perú. Responsable de punta a punta (Full Stack) del ciclo de desarrollo, utilizando Flutter en la app para concebir una herramienta robusta, con sincronización offline, accesible, de interfaz impecable y fácil adopción para el usuario final.
+
+---
+
+## 💼 Experiencia Profesional
+
 ### 🏢 ACL | Desarrollador Mobile
 **Julio 2025 - Noviembre 2025** • Remote
 
